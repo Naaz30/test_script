@@ -1,0 +1,23 @@
+[
+    {"DepartmentID": "MKT001", "DepartmentName": "Marketing", "Location": "Tokyo"},
+    {"DepartmentID": "FIN002", "DepartmentName": "Finance", "Location": "Paris"},
+    {"DepartmentID": "HR003", "DepartmentName": "Human Resources", "Location": "Beijing"},
+    {"DepartmentID": "R&D004", "DepartmentName": "Research and Development", "Location": "Mumbai"},
+    {"DepartmentID": "IT005", "DepartmentName": "Information Technology", "Location": "Istanbul"},
+    {"DepartmentID": "CS006", "DepartmentName": "Customer Service", "Location": "Rio de Janeiro"},
+    {"DepartmentID": "SAL007", "DepartmentName": "Sales", "Location": "Moscow"},
+    {"DepartmentID": "OPS008", "DepartmentName": "Operations", "Location": "Cairo"},
+    {"DepartmentID": "LEG009", "DepartmentName": "Legal", "Location": "Sydney"},
+    {"DepartmentID": "PM010", "DepartmentName": "Product Management", "Location": "Rome"},
+    {"DepartmentID": "QA011", "DepartmentName": "Quality Assurance", "Location": "Toronto"},
+    {"DepartmentID": "ADM012", "DepartmentName": "Administration", "Location": "Dubai"},
+    {"DepartmentID": "PR013", "DepartmentName": "Public Relations", "Location": "Buenos Aires"},
+    {"DepartmentID": "SC014", "DepartmentName": "Supply Chain", "Location": "Seoul"},
+    {"DepartmentID": "ENG015", "DepartmentName": "Engineering", "Location": "Los Angeles"},
+    {"DepartmentID": "DES016", "DepartmentName": "Design", "Location": "Shanghai"},
+    {"DepartmentID": "FM017", "DepartmentName": "Facilities Management", "Location": "Berlin"},
+    {"DepartmentID": "LOG018", "DepartmentName": "Logistics", "Location": "Jakarta"},
+    {"DepartmentID": "TD019", "DepartmentName": "Training and Development", "Location": "Mexico City"},
+    {"DepartmentID": "PROC020", "DepartmentName": "Procurement", "Location": "Bangkok"}
+]
+
